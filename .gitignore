@@ -1,0 +1,8 @@
+mmu_sim
+*.vcd
+*.out
+*.log
+*.tmp
+*.gtkw
+Thumbs.db
+Desktop.ini
