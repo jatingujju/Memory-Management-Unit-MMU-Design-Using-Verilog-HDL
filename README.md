@@ -206,8 +206,3 @@ Areas of Interest:
 * Functional Verification
 * Computer Architecture
 
----
-
-## Acknowledgement
-
-Special thanks to **Umesh Yadav Sir** for his valuable guidance and support throughout the development of this project.
